@@ -1,5 +1,9 @@
+// JavaScript Document
+
 
 
 $(document).ready(function(){ //jQuery Start
-    $('body').css("background","red");
+
+//put all jQuery code here
+
 });
